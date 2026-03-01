@@ -56,4 +56,4 @@ python main.py
 - Ollama lets you run AI completely offline and privately
 
 ## 🙋 Made By
-Shubhan Sharma — built as a personal productivity AI assistant
+Shubhan Sharma — built as a personal productivity AI assistant(HACKETHON PROJECT)
